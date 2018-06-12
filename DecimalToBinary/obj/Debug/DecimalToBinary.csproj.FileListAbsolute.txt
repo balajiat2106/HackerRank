@@ -1,0 +1,6 @@
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\DecimalToBinary\obj\Debug\DecimalToBinary.csprojResolveAssemblyReference.cache
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

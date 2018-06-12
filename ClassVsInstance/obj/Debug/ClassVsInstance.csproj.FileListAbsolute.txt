@@ -1,0 +1,6 @@
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\ClassVsInstance\bin\Debug\ClassVsInstance.exe.config
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\ClassVsInstance\bin\Debug\ClassVsInstance.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\ClassVsInstance\bin\Debug\ClassVsInstance.pdb
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\ClassVsInstance\obj\Debug\ClassVsInstance.csprojResolveAssemblyReference.cache
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\ClassVsInstance\obj\Debug\ClassVsInstance.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\ClassVsInstance\obj\Debug\ClassVsInstance.pdb

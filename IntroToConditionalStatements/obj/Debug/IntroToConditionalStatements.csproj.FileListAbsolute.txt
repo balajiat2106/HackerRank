@@ -1,0 +1,5 @@
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\IntroToConditionalStatements\bin\Debug\IntroToConditionalStatements.exe.config
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\IntroToConditionalStatements\bin\Debug\IntroToConditionalStatements.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\IntroToConditionalStatements\bin\Debug\IntroToConditionalStatements.pdb
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\IntroToConditionalStatements\obj\Debug\IntroToConditionalStatements.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\IntroToConditionalStatements\obj\Debug\IntroToConditionalStatements.pdb

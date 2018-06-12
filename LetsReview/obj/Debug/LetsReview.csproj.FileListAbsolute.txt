@@ -1,0 +1,6 @@
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\LetsReview\bin\Debug\LetsReview.exe.config
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\LetsReview\bin\Debug\LetsReview.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\LetsReview\bin\Debug\LetsReview.pdb
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\LetsReview\obj\Debug\LetsReview.csprojResolveAssemblyReference.cache
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\LetsReview\obj\Debug\LetsReview.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\LetsReview\obj\Debug\LetsReview.pdb

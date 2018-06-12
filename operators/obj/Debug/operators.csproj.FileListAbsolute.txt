@@ -1,0 +1,6 @@
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\operators\bin\Debug\operators.exe.config
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\operators\bin\Debug\operators.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\operators\bin\Debug\operators.pdb
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\operators\obj\Debug\operators.csprojResolveAssemblyReference.cache
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\operators\obj\Debug\operators.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\operators\obj\Debug\operators.pdb

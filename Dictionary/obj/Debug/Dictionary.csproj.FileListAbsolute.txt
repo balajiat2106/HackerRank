@@ -1,0 +1,6 @@
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\Dictionary\bin\Debug\Dictionary.exe.config
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\Dictionary\bin\Debug\Dictionary.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\Dictionary\bin\Debug\Dictionary.pdb
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\Dictionary\obj\Debug\Dictionary.exe
+c:\users\bsp2002\documents\visual studio 2013\Projects\HackerRank\Dictionary\obj\Debug\Dictionary.pdb
